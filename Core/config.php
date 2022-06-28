@@ -1,3 +1,3 @@
 <?php
-    define('PATH','/LIS_PROYECTO/');
+    define('PATH','/ISO_PROYECT/');
 ?>
