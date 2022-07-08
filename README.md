@@ -14,7 +14,6 @@ Modificacion de tienda en línea para la empresa ferretería Sumersa con el obje
 
 >Git
 
->Google Cloud Plataform
 
 # Licencia
 Este proyecto utiliza la licencia Reconocimiento-No Comercial-Sin Derivados 2.5(CC BY-NC-ND 2.5) que indica:
